@@ -1,2 +1,2 @@
 # GDP-This repo consists of a  jupyternotebook with python code that is uses to train and predict the GDP  per capita of different countries and the level of livesatisfaction they had. this is a comparision between the GDP per capita with the level of ssatisfaction of the people of the country have. so, we found as the GDP per capita increases the level of satisfaction also increases linearly . so, we came to a canclusion that  the simple linear reggression will be an appropreate choice to get predictions. we too an example also of Cyprus to get the level of satisfaction in people of CYPRUS  whicH came out to be 6.3016 .
-NOTE THSI DATA IS BASEDON A STUDY CONDUCTED IN 2020.
+NOTE THSI DATA IS BASEDON A STUDY CONDUCTED IN  2020.
